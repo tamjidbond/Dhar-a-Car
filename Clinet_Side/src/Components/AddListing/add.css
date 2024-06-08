@@ -1,0 +1,16 @@
+.add input {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+}
+
+.add {
+     background-image: url('./../../assets/images/R.jpg');
+     background-size: cover;
+}
+
+.add .bgBord {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+}

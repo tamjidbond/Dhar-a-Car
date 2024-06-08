@@ -1,0 +1,21 @@
+.navv li {
+    transition: all linear .3s;
+}
+
+.navv a {
+    margin: 0 5px 0 5px;
+    border-radius: 0% !important;
+}
+
+.navv a:hover {
+    background-color: rgba(48, 118, 248, 0.142) !important;
+}
+.navv a:focus {
+    background-color: blue !important;
+    color: white !important;
+}
+.navv a.active {
+    border-bottom: 2px solid blue !important;
+    background-color: white !important;
+    color: blue !important;
+}

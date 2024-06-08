@@ -1,0 +1,24 @@
+.bg {
+    background-image: url(../../assets/images/4858794.jpg);
+}
+
+.log a.active {
+    border-bottom: 2px solid blue;
+    color: blue;
+    
+}
+.log a:hover {
+    background-color: rgb(164, 164, 240) !important;
+}
+
+.pass  {
+    border: none;
+    
+}
+.pass:active {
+    border: none !important;
+}
+
+input:focus{
+    outline: 0 !important;
+}
